@@ -16,6 +16,10 @@ This project demonstrates full-stack web development concepts using Java technol
 
 
 
+\## 📸 Project Screenshots
+
+
+
 \## 🚀 Features
 
 \- User Registration and Login Authentication
@@ -157,4 +161,54 @@ Finora/
 \- Password encryption (Hashing)
 
 \- Improved UI/UX design
+
+
+
+\---
+
+
+
+\## 📸 Project Screenshots
+
+
+
+\### 🔐 Login Page
+
+!\[Login Page](screenshots/login.png)
+
+
+
+\### 🏠 User Dashboard
+
+!\[User Dashboard](screenshots/User\_Dashboard.png)
+
+
+
+\### 💸 Fund Transfer
+
+!\[Fund Transfer](screenshots/fund\_Transfer.png)
+
+
+
+\### 💳 Loan Services
+
+!\[Loan Services](screenshots/loan\_Management.png)
+
+
+
+\### 🛠️ Support System
+
+!\[Support System](screenshots/Support\_Request.png)
+
+
+
+\### 👨‍💼 Admin Panel
+
+!\[Admin Panel](screenshots/Admin-Dashboard.png)
+
+
+
+\### 📜 Transaction History
+
+!\[Transaction History](screenshots/Transaction-History.png)
 
